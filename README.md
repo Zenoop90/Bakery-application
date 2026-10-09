@@ -66,7 +66,7 @@ The entire application architecture, navigation flow, and UI components are neat
    ```bash
    git clone git@github.com:Zenoop90/Bakery-application.git
    ```
-2. Open `Industrial Training 1.xcodeproj` in **Xcode 15+**.
+2. Open `SweetCrumbs_BakeryApp.xcodeproj` in **Xcode 15+**.
 3. Select an iOS Simulator (e.g., iPhone 15 Pro / iPhone 16).
 4. Press **Cmd + R** or click **Run** to launch the app.
 
