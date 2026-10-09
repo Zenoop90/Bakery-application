@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9E926675305ACF74009C1562 /* Industrial Training 1 */ = {
+		9E926675305ACF74009C1562 /* Project Code */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Industrial Training 1";
+			path = "Project Code";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
