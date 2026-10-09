@@ -70,9 +70,3 @@ The entire application architecture, navigation flow, and UI components are neat
 3. Select an iOS Simulator (e.g., iPhone 15 Pro / iPhone 16).
 4. Press **Cmd + R** or click **Run** to launch the app.
 
----
-
-## 👨‍💻 Author
-
-- **Intern Project**: Industrial Training 1 — iOS App Development
-- **GitHub**: [@Zenoop90](https://github.com/Zenoop90)
